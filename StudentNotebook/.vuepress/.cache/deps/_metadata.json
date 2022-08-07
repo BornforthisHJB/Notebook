@@ -1,0 +1,80 @@
+{
+  "hash": "8833f8c6",
+  "browserHash": "a1a6cc78",
+  "optimized": {
+    "@vue/devtools-api": {
+      "src": "../../../../node_modules/@vue/devtools-api/lib/esm/index.js",
+      "file": "@vue_devtools-api.js",
+      "fileHash": "f497805a",
+      "needsInterop": false
+    },
+    "@vuepress/shared": {
+      "src": "../../../../node_modules/@vuepress/shared/dist/index.js",
+      "file": "@vuepress_shared.js",
+      "fileHash": "0bdc0ba6",
+      "needsInterop": false
+    },
+    "vue": {
+      "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "1d4bec5a",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "src": "../../../../node_modules/vue-router/dist/vue-router.esm-bundler.js",
+      "file": "vue-router.js",
+      "fileHash": "c89af1cf",
+      "needsInterop": false
+    },
+    "chart.js/auto": {
+      "src": "../../../../node_modules/chart.js/auto/auto.mjs",
+      "file": "chart_js_auto.js",
+      "fileHash": "c08221ea",
+      "needsInterop": false
+    },
+    "echarts": {
+      "src": "../../../../node_modules/echarts/index.js",
+      "file": "echarts.js",
+      "fileHash": "8e954f9a",
+      "needsInterop": false
+    },
+    "flowchart.js": {
+      "src": "../../../../node_modules/flowchart.js/index.js",
+      "file": "flowchart_js.js",
+      "fileHash": "223b574d",
+      "needsInterop": true
+    },
+    "mermaid": {
+      "src": "../../../../node_modules/mermaid/dist/mermaid.esm.min.mjs",
+      "file": "mermaid.js",
+      "fileHash": "f82cbf50",
+      "needsInterop": false
+    },
+    "@vue/repl": {
+      "src": "../../../../node_modules/@vue/repl/dist/vue-repl.js",
+      "file": "@vue_repl.js",
+      "fileHash": "b63fa64e",
+      "needsInterop": false
+    },
+    "@vueuse/core": {
+      "src": "../../../../node_modules/@vueuse/core/index.mjs",
+      "file": "@vueuse_core.js",
+      "fileHash": "73dd3a02",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-W7MUMEDH": {
+      "file": "chunk-W7MUMEDH.js"
+    },
+    "chunk-BPGD55RX": {
+      "file": "chunk-BPGD55RX.js"
+    },
+    "chunk-IMJLEJYC": {
+      "file": "chunk-IMJLEJYC.js"
+    },
+    "chunk-NUYBN3ZM": {
+      "file": "chunk-NUYBN3ZM.js"
+    }
+  }
+}
