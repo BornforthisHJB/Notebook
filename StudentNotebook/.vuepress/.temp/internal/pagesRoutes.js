@@ -1,5 +1,5 @@
 export const pagesRoutes = [
-  ["v-8daa1a0e","/",{"title":"博客主页","icon":"home","type":"home","readingTime":{"minutes":0.61,"words":182},"excerpt":""},["/index.html","/README.md"]],
+  ["v-8daa1a0e","/",{"title":"笔记博客","icon":"home","type":"home","readingTime":{"minutes":0.12,"words":36},"excerpt":""},["/index.html","/README.md"]],
   ["v-62ef9a50","/blog/article10.html",{"title":"文章 10","icon":"edit","type":"article","readingTime":{"minutes":0.11,"words":33},"excerpt":"文章 10 标题 2 这里是内容。 标题 3 这里是内容。","date":"2022-01-10T00:00:00.000Z","localizedDate":"2022年1月10日","category":["CategoryA","CategoryB"],"tag":["tag A","tag B"]},["/blog/article10","/blog/article10.md"]],
   ["v-5f85e912","/blog/article11.html",{"title":"文章 11","icon":"edit","type":"article","readingTime":{"minutes":0.11,"words":33},"excerpt":"文章 11 标题 2 这里是内容。 标题 3 这里是内容。","date":"2022-01-11T00:00:00.000Z","localizedDate":"2022年1月11日","category":["CategoryA","CategoryB"],"tag":["tag A","tag B"]},["/blog/article11","/blog/article11.md"]],
   ["v-5c1c37d4","/blog/article12.html",{"title":"文章 12","icon":"edit","type":"article","readingTime":{"minutes":0.12,"words":35},"excerpt":"文章 12 标题 2 这里是内容。 标题 3 这里是内容。","date":"2022-01-12T00:00:00.000Z","localizedDate":"2022年1月12日","category":["CategoryA","CategoryB"],"tag":["tag A","tag B"],"star":true},["/blog/article12","/blog/article12.md"]],

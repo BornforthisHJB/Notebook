@@ -19,9 +19,6 @@ import BlogPage from "@theme-hope/module/blog/components/BlogPage";
 import { setupBlog } from "@theme-hope/module/blog/composables";
 import "/Users/huangjiabao/GitHub/WebSite/Student-Template/node_modules/vuepress-theme-hope/lib/client/module/blog/styles/layout.scss";
 
-import GloablEncrypt from "@theme-hope/module/encrypt/components/GloablEncrypt";
-import LocalEncrypt from "@theme-hope/module/encrypt/components/LocalEncrypt";
-
 
 export default defineClientConfig({
   enhance: ({ app, router }) => {
@@ -47,9 +44,6 @@ export default defineClientConfig({
     app.component("BloggerInfo", BloggerInfo);
     app.component("BlogHome", BlogHome);
     app.component("BlogPage", BlogPage);
-    
-    app.component("GloablEncrypt", GloablEncrypt);
-    app.component("LocalEncrypt", LocalEncrypt);
     
   },
   setup: () => {

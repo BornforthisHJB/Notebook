@@ -16,7 +16,7 @@ export default hopeTheme({
 
   repo: "/BornforthisHJB/Notebook",
 
-  docsDir: "demo/src",
+  docsDir: "StudentNotebook",
 
   // navbar
   navbar: navbar,
@@ -24,7 +24,7 @@ export default hopeTheme({
   // sidebar
   sidebar: sidebar,
 
-  footer: '长期招收编程一对一学员!微信:Jiabcdefh, <a href="https://beian.miit.gov.cn/" target="_blank">闽ICP备19021486号-6</a>',
+  footer: '长期招收编程一对一学员!微信:Jiabcdefh',
 
   displayFooter: true,
 
@@ -32,14 +32,14 @@ export default hopeTheme({
 
   blog: {
     description: "AI悦创·编程私教学员",
-    intro: "/intro.html",
+    intro: "https://bornforthis.cn",
   },
 
-  encrypt: {
-    config: {
-      "/guide/encrypt.html": ["1234"],
-    },
-  },
+  // encrypt: {
+  //   config: {
+  //     // "/guide/encrypt.html": ["1234"],
+  //   },
+  // },
 
   plugins: {
     blog: {

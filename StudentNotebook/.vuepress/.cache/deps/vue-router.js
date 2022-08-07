@@ -1,6 +1,6 @@
 import {
   setupDevtoolsPlugin
-} from "./chunk-W7MUMEDH.js";
+} from "./chunk-Z5G34GEI.js";
 import {
   computed,
   defineComponent,
@@ -18,68 +18,11 @@ import {
   unref,
   watch,
   watchEffect
-} from "./chunk-BPGD55RX.js";
-import "./chunk-IMJLEJYC.js";
-import {
-  init_define_BACK_TO_TOP_LOCALES,
-  init_define_CODE_COPY_LOCALES,
-  init_define_CODE_COPY_OPTIONS,
-  init_define_CODE_DEMO_OPTIONS,
-  init_define_COMMENT_OPTIONS,
-  init_define_EXTERNAL_LINK_ICON_LOCALES,
-  init_define_MERMAID_OPTIONS,
-  init_define_PHOTO_SWIPE_LOCALES,
-  init_define_PHOTO_SWIPE_OPTIONS,
-  init_define_PLAYGROUND_OPTIONS,
-  init_define_READING_TIME_LOCALES,
-  init_define_REVEAL_CONFIG,
-  init_define_WALINE_LOCALES
-} from "./chunk-NUYBN3ZM.js";
-
-// dep:vue-router
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_COMMENT_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_PLAYGROUND_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_WALINE_LOCALES();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/vue-router/dist/vue-router.esm-bundler.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_COMMENT_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_PLAYGROUND_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_WALINE_LOCALES();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
+} from "./chunk-S4HDREAB.js";
+import "./chunk-DBMRRQIZ.js";
+import "./chunk-N25I63DH.js";
 
 // node_modules/vue-router/dist/vue-router.mjs
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_COMMENT_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_PLAYGROUND_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_WALINE_LOCALES();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var isBrowser = typeof window !== "undefined";
 function isESModule(obj) {
   return obj.__esModule || obj[Symbol.toStringTag] === "Module";
