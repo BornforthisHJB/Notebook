@@ -54,10 +54,10 @@ export default hopeTheme({
        * Using Giscus
        */
       provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
+      repo: "BornforthisHJB/comment",
+      repoId: "R_kgDOHTJESw",
       category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
+      categoryId: "DIC_kwDOHTJES84CO_Qz",
 
       /**
        * Using Twikoo
@@ -73,7 +73,21 @@ export default hopeTheme({
     },
 
     mdEnhance: {
-      enableAll: true,
+      tex: true,
+      // enableAll: true,
+      attrs: true,
+      tabs: true,
+      // vpre: true,
+      codetabs: true,
+      tasklist: true,
+      // 启用图片标记
+      imageMark: true,
+      // 启用图片大小
+      imageSize: true,
+      align: true, // 自定义对齐
+      footnote: true,
+      // this is the default option, so you can use it directly
+      container: true,
       presentation: {
         plugins: ["highlight", "math", "search", "notes", "zoom"],
       },
