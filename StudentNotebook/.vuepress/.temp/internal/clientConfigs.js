@@ -9,6 +9,7 @@ import clientConfig7 from '/Users/huangjiabao/GitHub/WebSite/Student-Template/no
 import clientConfig8 from '/Users/huangjiabao/GitHub/WebSite/Student-Template/StudentNotebook/.vuepress/.temp/md-enhance/config.js'
 import clientConfig9 from '/Users/huangjiabao/GitHub/WebSite/Student-Template/node_modules/vuepress-plugin-photo-swipe/lib/client/config.js'
 import clientConfig10 from '/Users/huangjiabao/GitHub/WebSite/Student-Template/StudentNotebook/.vuepress/.temp/theme-hope/config.js'
+import clientConfig11 from '/Users/huangjiabao/GitHub/WebSite/Student-Template/node_modules/@vuepress/plugin-search/lib/client/config.js'
 
 export const clientConfigs = [
   clientConfig0,
@@ -22,4 +23,5 @@ export const clientConfigs = [
   clientConfig8,
   clientConfig9,
   clientConfig10,
+  clientConfig11,
 ]
