@@ -1,14 +1,6 @@
 export const pagesData = {
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"/Users/huangjiabao/GitHub/WebSite/Student-Template/StudentNotebook/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
-  // path: /blog/article10.html
-  "v-62ef9a50": () => import(/* webpackChunkName: "v-62ef9a50" */"/Users/huangjiabao/GitHub/WebSite/Student-Template/StudentNotebook/.vuepress/.temp/pages/blog/article10.html.js").then(({ data }) => data),
-  // path: /blog/article11.html
-  "v-5f85e912": () => import(/* webpackChunkName: "v-5f85e912" */"/Users/huangjiabao/GitHub/WebSite/Student-Template/StudentNotebook/.vuepress/.temp/pages/blog/article11.html.js").then(({ data }) => data),
-  // path: /blog/article12.html
-  "v-5c1c37d4": () => import(/* webpackChunkName: "v-5c1c37d4" */"/Users/huangjiabao/GitHub/WebSite/Student-Template/StudentNotebook/.vuepress/.temp/pages/blog/article12.html.js").then(({ data }) => data),
-  // path: /blog/article9.html
-  "v-3556efc2": () => import(/* webpackChunkName: "v-3556efc2" */"/Users/huangjiabao/GitHub/WebSite/Student-Template/StudentNotebook/.vuepress/.temp/pages/blog/article9.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"/Users/huangjiabao/GitHub/WebSite/Student-Template/StudentNotebook/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
   // path: /category/
@@ -33,4 +25,6 @@ export const pagesData = {
   "v-3e5b7ba3": () => import(/* webpackChunkName: "v-3e5b7ba3" */"/Users/huangjiabao/GitHub/WebSite/Student-Template/StudentNotebook/.vuepress/.temp/pages/category/categoryb/index.html.js").then(({ data }) => data),
   // path: /tag/tag-b/
   "v-06bbb224": () => import(/* webpackChunkName: "v-06bbb224" */"/Users/huangjiabao/GitHub/WebSite/Student-Template/StudentNotebook/.vuepress/.temp/pages/tag/tag-b/index.html.js").then(({ data }) => data),
+  // path: /blog/article1.html
+  "v-27b02aca": () => import(/* webpackChunkName: "v-27b02aca" */"/Users/huangjiabao/GitHub/WebSite/Student-Template/StudentNotebook/.vuepress/.temp/pages/blog/article1.html.js").then(({ data }) => data),
 }

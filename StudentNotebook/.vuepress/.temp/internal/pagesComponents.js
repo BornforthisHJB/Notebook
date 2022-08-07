@@ -3,14 +3,6 @@ import { defineAsyncComponent } from 'vue'
 export const pagesComponents = {
   // path: /
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"/Users/huangjiabao/GitHub/WebSite/Student-Template/StudentNotebook/.vuepress/.temp/pages/index.html.vue")),
-  // path: /blog/article10.html
-  "v-62ef9a50": defineAsyncComponent(() => import(/* webpackChunkName: "v-62ef9a50" */"/Users/huangjiabao/GitHub/WebSite/Student-Template/StudentNotebook/.vuepress/.temp/pages/blog/article10.html.vue")),
-  // path: /blog/article11.html
-  "v-5f85e912": defineAsyncComponent(() => import(/* webpackChunkName: "v-5f85e912" */"/Users/huangjiabao/GitHub/WebSite/Student-Template/StudentNotebook/.vuepress/.temp/pages/blog/article11.html.vue")),
-  // path: /blog/article12.html
-  "v-5c1c37d4": defineAsyncComponent(() => import(/* webpackChunkName: "v-5c1c37d4" */"/Users/huangjiabao/GitHub/WebSite/Student-Template/StudentNotebook/.vuepress/.temp/pages/blog/article12.html.vue")),
-  // path: /blog/article9.html
-  "v-3556efc2": defineAsyncComponent(() => import(/* webpackChunkName: "v-3556efc2" */"/Users/huangjiabao/GitHub/WebSite/Student-Template/StudentNotebook/.vuepress/.temp/pages/blog/article9.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"/Users/huangjiabao/GitHub/WebSite/Student-Template/StudentNotebook/.vuepress/.temp/pages/404.html.vue")),
   // path: /category/
@@ -35,4 +27,6 @@ export const pagesComponents = {
   "v-3e5b7ba3": defineAsyncComponent(() => import(/* webpackChunkName: "v-3e5b7ba3" */"/Users/huangjiabao/GitHub/WebSite/Student-Template/StudentNotebook/.vuepress/.temp/pages/category/categoryb/index.html.vue")),
   // path: /tag/tag-b/
   "v-06bbb224": defineAsyncComponent(() => import(/* webpackChunkName: "v-06bbb224" */"/Users/huangjiabao/GitHub/WebSite/Student-Template/StudentNotebook/.vuepress/.temp/pages/tag/tag-b/index.html.vue")),
+  // path: /blog/article1.html
+  "v-27b02aca": defineAsyncComponent(() => import(/* webpackChunkName: "v-27b02aca" */"/Users/huangjiabao/GitHub/WebSite/Student-Template/StudentNotebook/.vuepress/.temp/pages/blog/article1.html.vue")),
 }
