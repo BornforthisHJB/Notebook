@@ -11,7 +11,12 @@ export default defineUserConfig({
 
   plugins: [
     searchPlugin({
-      // 你的选项
+      locales: {
+        "/": {
+          placeholder: "搜索",
+          
+        },
+      },
     }),
   ],
 
